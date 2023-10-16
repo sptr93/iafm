@@ -1,6 +1,8 @@
 {
     "name": "iafm/levenshtein-similarity",
     "description": "Levenshtein Similarity Package",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Saputra Rahmadiyan",
